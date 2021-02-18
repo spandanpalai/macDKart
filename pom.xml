@@ -12,6 +12,7 @@
 	<artifactId>Mcdonalds_kart</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Mcdonalds_kart</name>
+	<packaging>war</packaging>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
